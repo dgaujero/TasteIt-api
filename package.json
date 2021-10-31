@@ -1,0 +1,25 @@
+{
+  "name": "tasteit-api",
+  "version": "1.0.0",
+  "description": "The API should support the following operations:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgaujero/TasteIt-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgaujero/TasteIt-api/issues"
+  },
+  "homepage": "https://github.com/dgaujero/TasteIt-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
